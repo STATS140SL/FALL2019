@@ -6,5 +6,8 @@ Put your name in the Team Section and comment
 
 ## Team
 
+Patricia Njo
 
 ## Comments
+
+Requesting access to become a member in STATS140SL
