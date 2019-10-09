@@ -8,8 +8,10 @@ Put your name in the Team Section and comment
 Chengcheng Xu
 Tuyen Bich Duong
 Jackson Torres
+Wenxin Zhou
 ## Comments
 Chengcheng Xu
 Hi, this is Tuyen. Nice to meet you all. 
 Let's go team, we got this!
+Hey guys, this is Wenxin.
 
