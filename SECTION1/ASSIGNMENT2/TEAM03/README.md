@@ -7,6 +7,8 @@ Put your name in the Team Section and comment
 ## Team
 Zihao Chen
 Jonathan Chang
+Jiancong Qi 
 ## Comments
 Hello
 Hi this is Jonathan Chang
+Hi there
