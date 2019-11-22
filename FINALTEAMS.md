@@ -82,15 +82,15 @@ Qianqian Huang (4pm)
 #### Team 18: Team18
 Team Members: 
 * 1pm: Joy Wang
-* 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li, Xinyi Wang, Chengcheng Xu
+* 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li
 
 #### Team 19: 
 Team members:  
 Indoo (4:00 pm)  
-Giang Nguyen (4:00 pm)  
+Chengcheng Xu (4:00 pm)  
 Seulchan Kim (4:00 pm)  
 Yunseub Kim  (4:00 pm)  
-Tuyen Duong (4:00 pm)  
+Xinyi Wang (4:00 pm)  
 
 #### Team 20: Big Data Energy  
 Team members:  
