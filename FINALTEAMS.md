@@ -15,13 +15,14 @@ Zuxuan Huai (12pm)
 Junpeng Jiang (12pm)
 
 #### Team 2: RPower 
-Team Members:
-Citlally Reynoso (2pm) 
-Fatima Kabbaj (2pm) 
-Hanna Grossman (2pm) 
-Kai Chen Tan (2pm) 
-Patricia Njo (12pm) 
-Yuqing Yang (2pm) 
+Team Members:  
+
+Citlally Reynoso (2pm)  
+Fatima Kabbaj (2pm)  
+Hanna Grossman (2pm)  
+Kai Chen Tan (2pm)  
+Patricia Njo (12pm)  
+Yuqing Yang (2pm)  
 
 #### Team 3: Data Miners
 Team Members:
