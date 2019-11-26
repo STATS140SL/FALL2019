@@ -103,7 +103,6 @@ Nikhil Sharma (4:00 pm)
 Team members:  
 Simon Shen (2:00 pm)  
 Qiyu Dai (2:00 pm)  
-Charles Bi (2:00 pm)  
 Ki Hyun Park (2:00 pm)  
 
 #### Team 22:  
