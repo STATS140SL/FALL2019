@@ -73,7 +73,7 @@ Team Members: Shuyuan Rong(12pm), Yuchen Zhang(12pm), Xinyi Xu(12pm), Xuyang Tia
 #### Team 15: What Do You Mean
 Team members:
 * 12PM: Tiffany Hsu, Shami Shaji
-* 4PM: Christina Indudhara
+* 4PM: Christina Indudhara, Giang Nguyen, Tuyen Duong
 
 #### Team 16: Funky Bunnies
 Team members:
@@ -96,10 +96,8 @@ Team Members:
 #### Team 19: 
 Team members:  
 Indoo (4:00 pm)  
-Giang Nguyen (4:00 pm)  
 Seulchan Kim (4:00 pm)  
 Yunseub Kim  (4:00 pm)  
-Tuyen Duong (4:00 pm)  
 
 #### Team 20: Big Data Energy  
 Team members:  
