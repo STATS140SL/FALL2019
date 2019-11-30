@@ -110,7 +110,6 @@ Nikhil Sharma (4:00 pm)
 Team members:  
 Simon Shen (2:00 pm)  
 Qiyu Dai (2:00 pm)  
-Ki Hyun Park (2:00 pm)  
 
 #### Team 22:  
 Team members:  
@@ -143,3 +142,7 @@ Team members:
 Team members:  
 * 12PM: Nicholas Ortega 
 * 4PM: Sam Aycock, Prateek Mahajan and Azeem Banatwala
+
+#### Team 27:
+Team member:
+* Ki Hyun Park (2:00 pm)
