@@ -98,7 +98,9 @@ Team Members:
 Team members:  
 Indoo (4:00 pm)  
 Seulchan Kim (4:00 pm)  
-Yunseub Kim  (4:00 pm)  
+Yunseub Kim  (4:00 pm) 
+Chengcheng Xu (4:00 pm)
+Xinyi Wang (4:00 pm)
 
 #### Team 20: Big Data Energy  
 Team members:  
