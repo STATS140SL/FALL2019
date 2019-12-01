@@ -90,8 +90,8 @@ Qianqian Huang (4pm)
 
 #### Team 18: Team18
 Team Members: 
-* 1pm: Joy Wang
-* 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li, Xinyi Wang, Chengcheng Xu
+* 1pm: Joy Wang, Jiancong Qi
+* 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li
 
 #### Team 19: 
 Team members:  
